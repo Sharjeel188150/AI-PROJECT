@@ -1,7 +1,8 @@
 # AI-PROJECT
-Multiplayer Tic Tac Toe with AI Support
-Project Report
+Multiplayer Tic Tac Toe with AI Support Project Report
+
 Group Member:
+
 Sharjeel Safder 22k4210
 Tulaib Tauseef 22k 4437
 
